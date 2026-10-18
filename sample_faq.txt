@@ -1,0 +1,16 @@
+Acme Support FAQ
+
+Refund policy
+Customers can request a full refund within 30 days of purchase. After 30 days, refunds are only issued for defective products. To request a refund, email support@acme.example with your order number.
+
+Shipping
+Standard shipping takes 5-7 business days. Express shipping takes 2 business days and costs $15. We ship to the US, Canada, and the UK. International orders may be subject to customs fees.
+
+Account and password
+To reset your password, click "Forgot password" on the login page and follow the emailed link. The link expires after 24 hours. If you do not receive the email, check your spam folder or contact support.
+
+Support hours
+Our support team is available Monday to Friday, 9am to 6pm IST. Messages sent outside these hours are answered on the next business day.
+
+Warranty
+All hardware products include a 1-year limited warranty covering manufacturing defects. Accidental damage and water damage are not covered.

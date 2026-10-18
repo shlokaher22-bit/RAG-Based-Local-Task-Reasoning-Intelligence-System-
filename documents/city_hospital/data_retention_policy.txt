@@ -1,0 +1,3 @@
+Patient Data Retention Policy - City Hospital
+Medical records must be retained for a minimum of 10 years after the last patient contact. Records of minors must be retained until the patient reaches age 28. After the retention period, records are securely destroyed using NIST 800-88 compliant methods and a destruction certificate is filed with the compliance office.
+Access to patient records requires role-based authorization. All access is logged and reviewed quarterly by the Privacy Officer, Dr. Meera Iyer.

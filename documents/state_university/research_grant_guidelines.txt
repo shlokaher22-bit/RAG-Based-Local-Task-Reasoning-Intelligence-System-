@@ -1,0 +1,2 @@
+Research Grant Guidelines - State University
+Principal Investigators may request up to 250,000 USD per grant cycle. Applications must include a data management plan describing storage, encryption and sharing of research data. Ethics approval is mandatory for studies involving human participants.

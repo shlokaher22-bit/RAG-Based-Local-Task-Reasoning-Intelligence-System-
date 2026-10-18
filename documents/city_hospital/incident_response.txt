@@ -1,0 +1,2 @@
+Security Incident Response - City Hospital
+Any suspected data breach must be reported to the Security Operations Centre within 1 hour of discovery. The incident commander will decide on isolation of affected systems. Regulators must be notified within 72 hours if personal health information is confirmed to be compromised.
